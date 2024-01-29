@@ -1089,7 +1089,7 @@ transition: ease all 0.5s;
 
 .carousel-control-prev i {
  background: #f9f9f9;
-    color: #660066;
+    color: #d2e7f9;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1101,7 +1101,7 @@ transition: ease all 0.5s;
 }
 .carousel-control-next i {
     background: #f9f9f9;
-    color: #660066;
+    color: #d2e7f9;
     width: 70px;
     font-size: 20px;
     height: 70px;
