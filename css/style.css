@@ -1208,13 +1208,11 @@ border-radius: 30px;
     text-align: left;
     
 }
- .box_text .upcoming-box h2 
-{
+ .box_text h2 {
      padding: 0;
      color: #660066;
      line-height: 70px;
      font-size: 70px;
-
  }
  .box_text p {
      font-size: 17px;
@@ -1271,6 +1269,12 @@ margin-top: 90px;
      text-align: right;
      color: #181716;
     
+}
+.Gallery_text h2 {
+  padding: 0;
+     color: #660066;
+     line-height: 70px;
+     font-size: 70px;
 }
  .Gallery_text a {
     font-size: 16px;
