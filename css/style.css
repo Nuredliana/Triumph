@@ -29,7 +29,7 @@
      overflow-x: hidden;
 }
  a {
-     color: #730099;
+     color: #660066;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -45,7 +45,7 @@
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
-     color: #730099;
+     color: #660066;
      margin: 0 
 }
  h1 {
@@ -72,7 +72,7 @@
      box-sizing: border-box;
 }
  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-     color: #730099;
+     color: #660066;
      text-decoration: none!important;
      opacity: 1 
 }
@@ -91,7 +91,7 @@
      line-height: 24px;
 }
  a {
-     color: #730099;
+     color: #660066;
      text-decoration: none;
      outline: none !important;
 }
@@ -1200,12 +1200,13 @@ border-radius: 30px;
      padding: 25px 2px 2px 2px;
      float: right;
 }
-
-
 .box_text .titlepage {
      padding-bottom: 20px; 
      text-align: left;
 }
+.upcoming .upcoming {
+    text-align: left;
+    
 }
  .upcoming .upcoming-box h2 
 {
@@ -1224,7 +1225,7 @@ border-radius: 30px;
      padding-right: 20px;
 }
  .box_text a {
-    font-size: 40px;
+    font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
 color: #fff;
