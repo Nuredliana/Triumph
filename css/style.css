@@ -1032,7 +1032,7 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #b300b3;
+     background-color: #660066;
     color: #fff;
     transition: ease all 0.5s;          
 }
@@ -1176,7 +1176,7 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #0ed1f0;
+     background-color: #660066;
      border: #0ed1f0 solid 1px;
     color: #fff;
  }
@@ -1229,7 +1229,7 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #0ed1f0;
+     background-color: #660066;
      border: #0ed1f0 solid 1px;
      color: #fff;
 }
@@ -1291,7 +1291,7 @@ margin-top: 53px;
 
 .hover_box {
 
-background: #0ed1f0bf;
+background: #660066;
 display: flex;
 justify-content: center;
 position: absolute;
@@ -1310,7 +1310,7 @@ transition: ease-in all 0.5s;
      transition: ease-in all 0.5s;
 }
  .Gallery_text a:hover {
-     background-color: #0ed1f0;
+     background-color: #660066;
      border: #0ed1f0 solid 1px;
      color: #fff;
 }
@@ -1383,11 +1383,36 @@ ul.icon_hu li {padding: 10px 3px; display: inline-block;}
      border-radius: 30px;
 }
 .contact_bg .send:hover {
-     background-color: #0fb0d3;
+     background-color: #660066;
 
 color: #fff;
 transition: all 0.3s ease-in;
 
+}
+.hover_box {
+
+background: #660066;
+display: flex;
+justify-content: center;
+position: absolute;
+top: 0;
+width: 92.5%;
+box-sizing: border-box;
+float: left;
+height: 100%;
+align-items: center;
+opacity: 0;
+transition: ease-in all 0.5s;
+
+}
+.hover_box:hover  {
+     opacity: 1;
+     transition: ease-in all 0.5s;
+}
+ .Contact_text a:hover {
+     background-color: #660066;
+     border: #0ed1f0 solid 1px;
+     color: #fff;
 }
 /** end contact section **/
 
