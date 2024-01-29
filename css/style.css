@@ -1228,7 +1228,7 @@ border-radius: 30px;
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #fff;
+color: #660066;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1241,7 +1241,7 @@ margin-top: 53px;
  .box_text a:hover {
      background-color: #660066;
      border: #0ed1f0 solid 1px;
-     color: #fff;
+     color: #660066;
 }
 .padding_left3 {padding-right: 0px;}
 
@@ -1276,7 +1276,7 @@ margin-top: 90px;
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #fff;
+color: #660066;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1322,7 +1322,7 @@ transition: ease-in all 0.5s;
  .Gallery_text a:hover {
      background-color: #660066;
      border: #0ed1f0 solid 1px;
-     color: #fff;
+     color: #660066;
 }
 ul.icon_hu {text-align: center;}
 ul.icon_hu h3 {color: #fff; font-size: 26px; padding: 0; font-weight: 500;}
