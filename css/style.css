@@ -29,7 +29,7 @@
      overflow-x: hidden;
 }
  a {
-     color: #660066;
+     color: #ffffff;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -1020,8 +1020,8 @@ font-weight: 400;
 }
  .text-bg a {
      font-size: 16px;
-background-color: #ffffff;
-color: #660066;
+background-color: #000000;
+color: #ffffff;
 padding: 12px 0px;
 max-width: 253px;
 width: 100%;
@@ -1089,7 +1089,7 @@ transition: ease all 0.5s;
 
 .carousel-control-prev i {
  background: #f9f9f9;
-    color: #660066;
+    color: #ffffff;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1101,7 +1101,7 @@ transition: ease all 0.5s;
 }
 .carousel-control-next i {
     background: #f9f9f9;
-    color: #660066;
+    color: #ffffff;
     width: 70px;
     font-size: 20px;
     height: 70px;
@@ -1237,7 +1237,7 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #660066;
+     background-color: #ffffff;
      border: #0ed1f0 solid 1px;
      color: #660066;
 }
@@ -1281,7 +1281,7 @@ margin-top: 90px;
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #ffffff;
+color: #660066;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
