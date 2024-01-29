@@ -998,7 +998,7 @@ transition: all 0.3s ease-in;
   .text-bg span {
      font-size: 80px;
 line-height: 80px;
-color: #660066;
+color: #d2e7f9;
 text-transform: uppercase;
   }
  .text-bg h1 {
@@ -1206,6 +1206,15 @@ border-radius: 30px;
      padding-bottom: 20px; 
      text-align: left;
 }
+}
+ .upcoming .upcoming-box h2 
+{
+     padding: 0;
+     color: #660066;
+     line-height: 70px;
+     font-size: 70px;
+
+ }
  .box_text p {
      font-size: 17px;
      line-height: 35px;
