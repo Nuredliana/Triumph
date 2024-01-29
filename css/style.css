@@ -1089,7 +1089,7 @@ transition: ease all 0.5s;
 
 .carousel-control-prev i {
  background: #f9f9f9;
-    color: #d2e7f9;
+    color: #660066;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1101,7 +1101,7 @@ transition: ease all 0.5s;
 }
 .carousel-control-next i {
     background: #f9f9f9;
-    color: #d2e7f9;
+    color: #660066;
     width: 70px;
     font-size: 20px;
     height: 70px;
@@ -1226,7 +1226,7 @@ border-radius: 30px;
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #660066;
+color: #ffffff;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1281,7 +1281,7 @@ margin-top: 90px;
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #660066;
+color: #ffffff;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
