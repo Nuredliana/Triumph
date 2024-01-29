@@ -998,7 +998,7 @@ transition: all 0.3s ease-in;
   .text-bg span {
      font-size: 80px;
 line-height: 80px;
-color: #0fc9da;
+color: #660066;
 text-transform: uppercase;
   }
  .text-bg h1 {
@@ -1032,7 +1032,7 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #0ed1f0;
+     background-color: #b300b3;
     color: #fff;
     transition: ease all 0.5s;          
 }
@@ -1089,7 +1089,7 @@ transition: ease all 0.5s;
 
 .carousel-control-prev i {
  background: #f9f9f9;
-    color: #0ed1f0;
+    color: #660066;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1101,7 +1101,7 @@ transition: ease all 0.5s;
 }
 .carousel-control-next i {
     background: #f9f9f9;
-    color: #0ed1f0;
+    color: #660066;
     width: 70px;
     font-size: 20px;
     height: 70px;
@@ -1149,7 +1149,7 @@ margin-top: 90px;
 }
  .about .about-box h2 {
      padding: 0;
-     color: #020d0f;
+     color: #660066;
      line-height: 70px;
      font-size: 70px;
 
