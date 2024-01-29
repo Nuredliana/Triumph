@@ -833,7 +833,7 @@
 }
 .menu-area-main li.active a {
      color: #fff;
-     background: #0ed1f0;
+     background: #ccb3ff;
      border-radius: 17px;
      }
 
@@ -862,7 +862,7 @@
 
  .main-menu ul>li a:hover {
 color: #fff;
-background: #0ed1f0;
+background: #ccb3ff;
 border-radius: 17px;
 transition: all 0.3s ease-in;
  }
@@ -1021,7 +1021,7 @@ font-weight: 400;
  .text-bg a {
      font-size: 16px;
 background-color: #fff;
-color: #000;
+color: #660066;
 padding: 12px 0px;
 max-width: 253px;
 width: 100%;
@@ -1204,11 +1204,11 @@ border-radius: 30px;
      padding-bottom: 20px; 
      text-align: left;
 }
-.upcoming .upcoming {
+.box_text .upcoming {
     text-align: left;
     
 }
- .upcoming .upcoming-box h2 
+ .box_text .upcoming-box h2 
 {
      padding: 0;
      color: #660066;
