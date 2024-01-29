@@ -153,14 +153,14 @@
 }
  @media (max-width: 767px) {
 .mean-container .mean-nav ul li.active a {
-color: #0ed1f0;
+color: #660066;
 background: transparent;
 border-radius: 0;
 
 }
 
 .mean-container .mean-nav ul li a:hover {
-    color: #0ed1f0;
+    color: #660066;
 }
 
 }
