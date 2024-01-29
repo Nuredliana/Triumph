@@ -29,7 +29,7 @@
      overflow-x: hidden;
 }
  a {
-     color: #ffffff;
+     color: #660066;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -1261,6 +1261,7 @@ margin-top: 90px;
 .Gallery_text .titlepage {
      padding-bottom: 20px; 
      text-align: right;
+     color: #660066;
 }
  .Gallery_text p {
      font-size: 17px;
