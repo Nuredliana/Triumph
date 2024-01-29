@@ -223,8 +223,8 @@
      font-weight: 600;
 }
  .main_bt {
-     background: #000;
-     color: #fff;
+     background: #fffffff;
+     color: #660066;
      padding: 10px 60px 10px 60px;
      float: left;
      font-size: 15px;
@@ -1020,8 +1020,8 @@ font-weight: 400;
 }
  .text-bg a {
      font-size: 16px;
-background-color: #000000;
-color: #ffffff;
+background-color: #ffffff;
+color: #0c365a;
 padding: 12px 0px;
 max-width: 253px;
 width: 100%;
@@ -1088,8 +1088,8 @@ transition: ease all 0.5s;
 .padding_dd {padding: 0px 50px;}
 
 .carousel-control-prev i {
- background: #f9f9f9;
-    color: #ffffff;
+ background: #ffffff;
+    color: #000080;
     width: 70px;
     height: 70px;
      font-size: 20px;
@@ -1100,8 +1100,8 @@ transition: ease all 0.5s;
     box-shadow: #000 0px 0px 7px -3px;
 }
 .carousel-control-next i {
-    background: #f9f9f9;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000080;
     width: 70px;
     font-size: 20px;
     height: 70px;
@@ -1149,7 +1149,7 @@ margin-top: 90px;
 }
  .about .about-box h2 {
      padding: 0;
-     color: #660066;
+     color: #ffffff;
      line-height: 70px;
      font-size: 70px;
 
