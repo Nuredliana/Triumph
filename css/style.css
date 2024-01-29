@@ -832,7 +832,7 @@
      font-size: 12px;
 }
 .menu-area-main li.active a {
-     color: #fff;
+     color: #ffffff;
      background: #ccb3ff;
      border-radius: 17px;
      }
@@ -855,13 +855,13 @@
      font-size: 16px;
      display: block;
      font-weight: 500;
-     color: #fff;
+     color: #ffffff;
      text-transform: uppercase;
      transition: all 0.3s ease-in;
 }
 
  .main-menu ul>li a:hover {
-color: #fff;
+color: #ffffff;
 background: #ccb3ff;
 border-radius: 17px;
 transition: all 0.3s ease-in;
@@ -907,7 +907,7 @@ transition: all 0.3s ease-in;
      visibility: hidden;
      width: 240px;
      z-index: 999;
-     background: #fff;
+     background: #ffffff;
      -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
      box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
 }
@@ -1002,7 +1002,7 @@ color: #d2e7f9;
 text-transform: uppercase;
   }
  .text-bg h1 {
-    color: #fff;
+    color: #ffffff;
 padding-top: 20px;
 font-size: 100px;
 line-height: 85px;
@@ -1013,14 +1013,14 @@ font-weight: bold;
  .text-bg p {
     font-size: 17px;
 display: block;
-color: #fff;
+color: #ffffff;
 line-height: 30px;
 padding-bottom: 50px;
 font-weight: 400;
 }
  .text-bg a {
      font-size: 16px;
-background-color: #fff;
+background-color: #ffffff;
 color: #660066;
 padding: 12px 0px;
 max-width: 253px;
@@ -1149,7 +1149,7 @@ margin-top: 90px;
 }
  .about .about-box h2 {
      padding: 0;
-     color: #660066;
+     color: #ffffff;
      line-height: 70px;
      font-size: 70px;
 
