@@ -1149,7 +1149,7 @@ margin-top: 90px;
 }
  .about .about-box h2 {
      padding: 0;
-     color: #ffffff;
+     color: #000000;
      line-height: 70px;
      font-size: 70px;
 
@@ -1210,7 +1210,7 @@ border-radius: 30px;
 }
  .box_text h2 {
      padding: 0;
-     color: #660066;
+     color: #000000;
      line-height: 70px;
      font-size: 70px;
  }
