@@ -1165,7 +1165,7 @@ margin-top: 90px;
      font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #fffffff;
+color: #ffffff;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1174,11 +1174,10 @@ text-align: center;
 border-radius: 30px;
  }
 
-
  .about .about-box a:hover{ 
      background-color: #660066;
      border: #0ed1f0 solid 1px;
-    color: #fff;
+    color: #ffffff;
  }
  .about .about-box figure {
      margin: 0;
