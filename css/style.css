@@ -1165,7 +1165,7 @@ margin-top: 90px;
      font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #000000;
+color: #fffffff;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1237,9 +1237,9 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #ffffff;
+     background-color: #660066;
      border: #0ed1f0 solid 1px;
-     color: #660066;
+     color: #ffffff;
 }
 .padding_left3 {padding-right: 0px;}
 
