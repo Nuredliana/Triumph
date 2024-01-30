@@ -285,7 +285,7 @@
      padding: 0px 5px;
      text-transform: uppercase;
      font-weight: 600;
-     background: #38c8a8;
+     background: #4a6882;
      position: fixed;
      bottom: 20px;
      z-index: 99;
@@ -438,7 +438,7 @@
      text-decoration: none;
 }
  .top-menu-left li a:hover {
-     color: #38c8a8;
+     color: #4a6882;
 }
  .right-dropdown-language {
      float: right;
@@ -489,7 +489,7 @@
      padding: 5px 0;
 }
  .dropdown-bar .dropdown-link li a:hover {
-     color: #38c8a8;
+     color: #4a6882;
 }
  .dropdown-bar .dropdown-link li a img {
      margin-right: 7px;
@@ -658,7 +658,7 @@
      transform: scaleY(1);
 }
  .inner-cart {
-     background: #38c8a8;
+     background: #4a6882;
      border-radius: 2px;
      padding: 0px;
      color: #ffffff;
@@ -679,10 +679,10 @@
      display: inline-block;
 }
  .cart-box a:hover {
-     color: #38c8a8;
+     color: #4a6882;
 }
  .cart-box a span.icon {
-     background: #38c8a8;
+     background: #4a6882;
      width: 30px;
      height: 40px;
      display: inline-block;
@@ -697,7 +697,7 @@
      right: -8px;
      top: -8px;
      line-height: initial;
-     background: #38c8a8;
+     background: #4a6882;
      padding: 3px;
      border-radius: 50%;
      width: 17px;
@@ -713,7 +713,7 @@
      display: inline-block;
 }
  .wish-box a:hover {
-     color: #38c8a8;
+     color: #4a6882;
 }
  .wish-box a span.icon {
      background: #4d004d;
@@ -771,7 +771,7 @@
      position: absolute;
      right: 0px;
      top: 0px;
-     background: #38c8a8;
+     background: #4a6882;
      color: #ffffff;
      width: 20px;
      height: 20px;
@@ -795,7 +795,7 @@
  .subtotal {
      text-align: left;
      text-transform: capitalize;
-     color: #38c8a8;
+     color: #4a6882;
      font-weight: 500;
      margin-bottom: 15px;
 }
